@@ -1,6 +1,6 @@
 ### Hi
 
-- 🙃 I'm currently a PHP developer at Pleksus Information Technologies.
+- 🙃 I'm currently a PHP Backend developer at Jotform.
   
   > Designing and implementing the projects assigned to me as backend and frontend.
   
