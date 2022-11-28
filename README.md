@@ -1,5 +1,5 @@
 ### Hi
 
-- 🙃 I'm currently a PHP Backend developer at JotForm.
+- 🙃 I'm currently a PHP Backend Developer at Jotform.
   
-- 🌱 I'm learning react native and react
+- 🌱 I'm learning react
